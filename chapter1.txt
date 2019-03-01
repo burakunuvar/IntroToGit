@@ -14,6 +14,13 @@ checkout chapter3.txt // to turn back to latest version
 
 =======
 
+======
+
+git remote add origin [link of related repo ]
+git push -u origin master
+
+=====
+
 git rm --cached -r . // remove all from staging area
 
 =====
