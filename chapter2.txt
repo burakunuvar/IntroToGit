@@ -1,0 +1,16 @@
+hello world
+
+
+mkdir Story
+touch chapter1.txt
+nano chapter1.txt
+========
+git status
+git add chapter1.txt
+git commit -m "complete chapter1"
+========
+git log
+git status 
+git add chapter2.txt
+git add chapter3.txt
+

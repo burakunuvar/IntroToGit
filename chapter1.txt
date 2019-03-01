@@ -1,0 +1,20 @@
+mkdir Story
+touch chapter1.txt
+nano chapter1.txt
+========
+git status
+git add chapter1.txt // adds to the staging area
+git commit -m "complete chapter1" // adds to repository 
+========
+git log
+=======
+git diff chapter1.txt // for differences 
+
+checkout chapter3.txt // to turn back to latest version
+
+=======
+
+git rm --cached -r . // remove all from staging area
+
+=====
+git clone https://github.com/angelabauer/test-github-pages.git
