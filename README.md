@@ -45,6 +45,18 @@
     $ git clone  [sample_repository](https://github.com/angelabauer/test-github-pages.git)
 ```
 
+ - Part 5 : branching and merging
+
+```sh
+     $ git branch firstbranch // to create
+     $ git branch  // to list all 
+     $ git checkout firstbranch // to switch
+     $ git checkout master // to switch back
+     $ git merge firstbranch // use this command while in master
+     
+```
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
